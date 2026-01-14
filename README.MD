@@ -1,1 +1,1 @@
-# QA Playwright Automation 
+# QA Playwight Automation 
